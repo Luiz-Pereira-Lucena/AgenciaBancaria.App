@@ -1,0 +1,12 @@
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.deps.json
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.dll
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\bin\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.pdb
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.dll
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+C:\Users\Luiz Pereira\source\repos\AgenciaBancaria.Dominio\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.pdb
